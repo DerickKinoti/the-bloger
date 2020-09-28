@@ -7,9 +7,13 @@ As a writer i can register and login to post or delete blogs.
 
 # Technologies used
 flask(python)
+
 sqlalchemy
+
 html
+
 css
+
 javascript
 
 
